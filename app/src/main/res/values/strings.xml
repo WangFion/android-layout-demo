@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLayout</string>
+
+    <string name="linear_layout">LinearLayout（线性布局）</string>
+    <string name="relative_layout">RelativeLayout（相对布局）</string>
+    <string name="frame_layout">FrameLayout（帧布局）</string>
+    <string name="grid_layout">GridLayout（网格布局）</string>
+    <string name="constraint_layout">ConstraintLayout（约束布局）</string>
+</resources>
