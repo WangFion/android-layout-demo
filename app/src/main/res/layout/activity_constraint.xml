@@ -417,9 +417,7 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="10dp"
-                android:background="@drawable/bg_rect"
-                android:padding="10dp">
+                android:layout_marginTop="5dp">
 
                 <TextView
                     android:id="@+id/chain10"
@@ -509,6 +507,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginBottom="1dp"
                 android:background="#00ff00"
+                android:layout_marginEnd="1dp"
                 app:layout_constraintRight_toLeftOf="@id/guideline2" />
 
             <View
@@ -516,6 +515,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="1dp"
                 android:background="#00ff00"
+                android:layout_marginStart="1dp"
                 app:layout_constraintLeft_toRightOf="@id/guideline2" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
